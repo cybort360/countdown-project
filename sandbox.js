@@ -109,7 +109,7 @@ Draw();
 };
 
 const countdown = () => {
-const newYear = new Date('January 1 2024 00:00:00');
+const newYear = new Date('January 1 2025 00:00:00');
 
 const now = new Date();
 
